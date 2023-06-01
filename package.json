@@ -4,7 +4,7 @@
   "description": "A native NodeJS module to interact with macOS haptic feedback.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/martynaskre/node-mac-haptics"
+    "url": "git+https://github.com/martynaskre/node-mac-haptics.git"
   },
   "bugs": {
     "url": "https://github.com/martynaskre/node-mac-haptics/issues"
